@@ -1,26 +1,48 @@
 {
-  "products": [
+  "recipes": [
     {
-      "id": "0604",
-      "name": "Speaker bluetooth",
-      "description": "ce produit est un produit de haute qualité",
-      "category": "Électronique",
-      "price": 500,
-      "stock": 7,
-      "image": "",
-      "rating": 0,
-      "lastUpdated": "2025-06-07"
+      "id": "1",
+      "name": "Poulet rôti",
+      "description": "Un délicieux poulet rôti",
+      "category": "Plat principal",
+      "time": 60,
+      "difficulty": "Moyen",
+      "ingredients": "Poulet, sel, poivre",
+      "instructions": "Rôtir le poulet au ",
+      "image": "https://exemple.com/image.jpg"
     },
     {
-      "id": "4b69",
-      "name": "Laptop hp omen gaming",
-      "description": "Meilleurs laptop pour le 3d",
-      "category": "Électronique",
-      "price": 800,
-      "stock": 10,
-      "image": "",
-      "rating": 0,
-      "lastUpdated": "2025-06-07"
+      "id": "4985",
+      "name": "kervin",
+      "description": "je suis Software engineer",
+      "category": "afsdfaw",
+      "time": "45",
+      "difficulty": "fsadfa",
+      "ingredients": "asdfasdf",
+      "instructions": "asdfasdf",
+      "image": ""
+    },
+    {
+      "id": "5f42",
+      "name": "daphca",
+      "description": "jkjkjk",
+      "category": "jkjk",
+      "time": "50",
+      "difficulty": "klklk",
+      "ingredients": "klklkl",
+      "instructions": "kjkjk",
+      "image": ""
+    },
+    {
+      "id": "d23e",
+      "name": "labouyi",
+      "description": "fe labouyi mayi",
+      "category": "manje",
+      "time": "45",
+      "difficulty": "facile",
+      "ingredients": "sel poivron farine",
+      "instructions": "fsadfasdfa",
+      "image": ""
     }
   ]
 }
